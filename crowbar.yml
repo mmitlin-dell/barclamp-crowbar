@@ -293,6 +293,7 @@ rpms:
     - vim-enhanced
     # postgresql 93 stuff
     - postgresql93
+    - postgresql93-devel
     - postgresql93-contrib
     - postgresql93-server
     - ruby-devel

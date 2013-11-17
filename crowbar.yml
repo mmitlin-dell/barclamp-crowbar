@@ -299,7 +299,7 @@ rpms:
     - libxml2-devel
     - libpq5
     - libossp-uuid16
-    - libcpg6
+    - libecpg6
 
 gems:
   pkgs:
